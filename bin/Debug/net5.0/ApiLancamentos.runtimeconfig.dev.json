@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PontoBusiness\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PontoBusiness\\.nuget\\packages"
+    ]
+  }
+}
